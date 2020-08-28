@@ -1,0 +1,6 @@
+train  = data/VOC0712trainval.txt
+valid  = data/VOC2007test.txt
+names = data/voc.names
+backup = backup
+gpus  = 0,1
+num_workers = 0
